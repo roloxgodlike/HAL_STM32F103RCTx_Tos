@@ -396,7 +396,7 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+    
 /* USER CODE END 4 */
 
 /**
