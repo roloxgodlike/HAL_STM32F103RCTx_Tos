@@ -541,6 +541,21 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>Application/Demo</GroupName>
+          <Files>
+            <File>
+              <FileName>demo_mutex.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\demo_mutex.c</FilePath>
+            </File>
+            <File>
+              <FileName>demo_basic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\demo_basic.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
         <Group>
@@ -560,6 +575,26 @@
               <FileName>stm32f1xx_hal_msp.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Core/Src/stm32f1xx_hal_msp.c</FilePath>
+            </File>
+            <File>
+              <FileName>init_time.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\init_time.c</FilePath>
+            </File>
+            <File>
+              <FileName>init_iwdg.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\init_iwdg.c</FilePath>
+            </File>
+            <File>
+              <FileName>init_gpio.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\init_gpio.c</FilePath>
+            </File>
+            <File>
+              <FileName>init_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\init_uart.c</FilePath>
             </File>
           </Files>
         </Group>
